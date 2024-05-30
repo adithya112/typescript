@@ -5,6 +5,7 @@ import { setupCounter } from "./counter.ts";
 import "./tutorial.ts";
 import "./objects.ts";
 import "./functions.ts";
+import "./alias.ts";
 
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
   <div>
